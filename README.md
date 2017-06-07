@@ -63,6 +63,13 @@ Using the power of F# Type Providers we'll create a new project, integrate with 
 
 The presentation does not assume any prior familiarity with F#, Type Providers or Azure Functions.
 
+### Develop Your Development Automation - Jessica Kerr (15:00-16:00)
+
+Is your work ever boring?
+Programming is exciting and challenging when we’re adding features and making the computer do stuff, like serious business work. Programming is boring when we’re getting yet another service up and running and configured in CI. Adding the same methods to matching classes, again. Creating an issue, linking the PR, waiting for the build. Then there are the tasks so tedious we deny their importance and skip them, like upgrading existing services to the latest coding standards and keeping library versions up to date everywhere. What if you could replace every boring task with a few lines of carefully-considered code?
+
+In this session, you’ll see a live demo of how I can automate coordination and code with Rug and Atomist. I can’t get you out of boring meetings, but I can help you stick to the serious business in your coding time.
+
 ### Conquer the JavaScript ecosystem with F# and Fable! - Alfonso Garcia-Caro (16:20-17:20)
 
 Let's acknowledge it, Javascript has conquered the world. You've it on the web, on the server, on the desktop, on mobile... everywhere! Like the language or not, the truth is JS developers have built an incredible ecosystem with libraries and tools to do almost anything. If you want to enjoy all these development opportunities, does it mean there's no choice but dealing with duck typing, cryptic equality rules and undefined everywhere?
