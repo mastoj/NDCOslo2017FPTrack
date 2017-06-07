@@ -1,4 +1,6 @@
 # NDCOslo2017FPTrack
+
+[![Join the chat at https://gitter.im/NDCOslo2017FPTrack/Lobby](https://badges.gitter.im/NDCOslo2017FPTrack/Lobby.svg)](https://gitter.im/NDCOslo2017FPTrack/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Links to all FP talks at NDC Oslo 2017.
 
 ## Wednesday
